@@ -1,2 +1,2 @@
 # CommitExamples
-Some examples os commit protocols in Solidity
+Some commit protocols examples in Solidity
